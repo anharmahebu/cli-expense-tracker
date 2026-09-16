@@ -1,0 +1,12 @@
+[
+    {
+        "name": "KFC",
+        "jumlah": "50000",
+        "category": "Makan"
+    },
+    {
+        "name": "Coca Cola",
+        "jumlah": "10000",
+        "category": "Minum"
+    }
+]
